@@ -62,7 +62,6 @@ Several boxplots and heatmaps are used to support the analysis.
 
 📄 Notebook
 The main notebook (NacFaseLunar.ipynb) contains all analysis steps, explanations and output.
-There is also a Spanish version available for Spanish-speaking audiences.
 
 🌐 License and Use
 This project is shared under the MIT License.
